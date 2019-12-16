@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.cpp(271): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(292): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(397): warning C4018: '<': signed/unsigned mismatch
+main.cpp(402): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 473 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Ethan hebblewhite\Documents\Re-sit\OOP\My code\Ass ver1\Project1\Release\Project1.exe
+  Project1.vcxproj -> C:\Users\Ethan hebblewhite\Documents\Re-sit\OOP\My code\Ass ver1\Project1\Release\Project1.pdb (Full PDB)
